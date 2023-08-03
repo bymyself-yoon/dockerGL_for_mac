@@ -40,7 +40,7 @@ dockerGL
    ``` bash
    cd src
    sh config.sh
-   6 Enter 69
+   6 <Enter키 누르기> 69
    make
    ./main
    ```
